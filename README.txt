@@ -1,6 +1,6 @@
-Aerial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Aerial by Treovan
+https://dsc.gg/hypnotic | R Ξ V Ξ R A N S#1337
+Free for personal and commercial use under the CCA 3.0 license https://dsc.gg/hypnotic)
 
 
 This is Aerial, a single page, single screen responsive site template. Real simple.
@@ -17,8 +17,8 @@ as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
 
 Questions/comments/issues = just email or find me on Twitter. Have fun!
 
-AJ
-aj@lkn.io | @ajlkn
+Treovan
+https://dsc.gg/hypnotic | R Ξ V Ξ R A N S#1337
 
 
 The Scrolling Background:
@@ -61,4 +61,4 @@ Credits:
 		Font Awesome (fontawesome.io)
 
 	Other:
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (https://dsc.gg/hypnotic)
